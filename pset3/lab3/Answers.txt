@@ -1,0 +1,5 @@
+sort1 uses: bubbleSort
+
+sort2 uses: MargeSort
+
+sort3 uses: SelectionSort
