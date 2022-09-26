@@ -1,0 +1,42 @@
+.header{
+    text-align: center;
+    padding: 1rem 10px;
+    background-color: royalblue;
+    color: white;
+}
+.header a{
+    color: white;
+    text-shadow: 2px 2px 2px rgba(150, 150, 150, 1);
+}
+.main{
+    text-align: center;
+    background-color: orangered;
+    border: royalblue 3px;
+}
+.nav{
+    text-align:center;
+    padding: 5px 5px;
+    background-color: royalblue;
+}
+.nav-a{
+    text-align:center;
+    padding: 5px 5px;
+    background-color: orangered;
+}
+.div{
+    background-color: black;
+}
+.h2{
+    text-align: center;
+    color: white;
+}
+.p{
+    text-align: center;
+    color: white;
+}
+.footer{
+    text-align: center;
+    padding: 1rem 10px;
+    background-color: royalblue;
+    color: white;
+}
