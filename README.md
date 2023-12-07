@@ -1,17 +1,32 @@
-<h2>CC50 Curso de Harvard no Brasil!</h2>
+# CC50 Curso de Harvard! 😮
 
-Curso disponibilizado pela <strong>Fundação Estudar</strong> <br> <br>
-<a href="https://fundacao-estudar.myedools.com/cc50-o-curso-de-ciencia-da-computacao-de-harvard"><img src="https://edools-3-production.s3.amazonaws.com/org-6988%2Fschool-7227%2Ff48c7a8200b98c91989fdf187395032f%2Ffavicon.ico" width="20px">&nbsp;Fundação Estudar | CS50<a/>
+Curso de iniciação à **Ciência da Computação**! 💥 <br>
+Esse curso foi disponibilizado pela [Fundação Estudar](https://fundacao-estudar.myedools.com/cc50-o-curso-de-ciencia-da-computacao-de-harvard")
 
-##
+Esse repositório armazena todos os trabalhos realizados durante o curso divididos em módulos.
 
-<h3>Conteúdo</h3>
+## Tecnologias
 
-&middot; 😺 Scratch <br>
-&middot; 👽 C <br>
-&middot; 👾 Algoritmos <br>
-&middot; 🤖 Memória <br>
-&middot; 👨🏽‍💻 Estruturas de dados <br>
-&middot; 🐍 Python <br>
-&middot; 🐬 SQL <br>
-&middot; 💻 HTML, CSS, JavaScript <br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-javascript.svg" alt="JavaScript" height="28px">
+</a>
+<br>
+<a href="https://www.ibm.com/docs/pt/i/7.2?topic=languages-c-c">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-c.svg" alt="C" height="28px" width="60px">
+</a>
+<br>
+<a href="https://wiki.python.org.br/PythonBrasil">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-python.svg" alt="Python" height="28px">
+</a>
+<br>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-html.svg" alt="HTML" height="28px">
+</a>
+<br>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-css.svg" alt="CSS" height="28px">
+</a>
+<br>
+<a href="https://dev.mysql.com/doc/">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-mysql.svg" alt="MySQL" height="28px">
+</a>
