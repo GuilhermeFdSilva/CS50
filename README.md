@@ -1,7 +1,7 @@
 # CC50 Curso de Harvard! 😮
 
 Curso de iniciação à **Ciência da Computação**! 💥 <br>
-Esse curso foi disponibilizado pela [Fundação Estudar](https://fundacao-estudar.myedools.com/cc50-o-curso-de-ciencia-da-computacao-de-harvard")
+Esse curso foi disponibilizado pela [Fundação Estudar](https://fundacao-estudar.myedools.com/cc50-o-curso-de-ciencia-da-computacao-de-harvard)
 
 Esse repositório armazena todos os trabalhos realizados durante o curso divididos em módulos.
 
